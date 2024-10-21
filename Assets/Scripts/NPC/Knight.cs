@@ -12,7 +12,6 @@ public class Knight : MonoBehaviour
     [SerializeField] private Transform targetFacing;
 
     [SerializeField] private float targetRotateSpeed;
-    // [SerializeField] private Animator dragonAnimator;
     
     private Animator _animator;
     private NavMeshAgent _agent;
